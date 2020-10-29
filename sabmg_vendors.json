@@ -7,7 +7,8 @@
     "phone" : "914-636-0505",
     "type" : "Maintenance Supply",
     "type_id" : "maint",
-    "url" : "pearlgreen.com"
+    "url" : "pearlgreen.com",
+      "featured" : 1
    }, {
     "contact_person" : "John Nolan",
     "email" : "johnnolantfloors@gmail.com",
@@ -16,7 +17,8 @@
     "phone" : "212-879-2436",
     "type" : "Flooring",
     "type_id" : "floor",
-    "url" : "nolanselectfloors.com"
+    "url" : "nolanselectfloors.com",
+      "featured" : 0
    }, {
     "contact_person" : "Cody Levine",
     "email" : "clevine@majorair.net",
@@ -25,7 +27,8 @@
     "phone" : "718-592-5100",
     "type" : "HVAC",
     "type_id" : "hvac",
-    "url" : "majorair.net"
+    "url" : "majorair.net",
+      "featured" : 0
    }, {
     "contact_person" : "Joe Freud",
     "email" : "joe@chuteplus.com",
@@ -34,6 +37,7 @@
     "phone" : "347-671-1083",
     "type" : "Compactor Chute Repair/ Maintenace",
     "type_id" : "chute",
-    "url" : "www.chuteplus.com"
+    "url" : "www.chuteplus.com",
+      "featured" : 1
    }
 ]
