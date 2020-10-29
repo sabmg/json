@@ -1,0 +1,75 @@
+{
+  "leaders" : [ {
+    "base64" : "",
+    "bio" : "",
+    "id" : 1,
+    "img" : "",
+    "name" : "Brian Reilly",
+    "title" : "President"
+  }, {
+    "base64" : "",
+    "bio" : "",
+    "id" : 2,
+    "img" : "",
+    "name" : "Patrick McEnaney",
+    "title" : "Vice President"
+  }, {
+    "base64" : "",
+    "bio" : "",
+    "id" : 3,
+    "img" : "",
+    "name" : "Joseph Saljanin",
+    "title" : "Treasurer"
+  }, {
+    "base64" : "",
+    "bio" : "",
+    "id" : 4,
+    "img" : "",
+    "name" : "Orlando Rondon",
+    "title" : "Recording Secretary"
+  }, {
+    "base64" : "",
+    "bio" : "",
+    "id" : 5,
+    "img" : "",
+    "name" : "Tahchee Rodriguez",
+    "title" : "Financial Secretary"
+  } ],
+  "vendors" : [ {
+    "contact_person" : "Ken Nedel",
+    "email" : "knadel@pearlgreen.com",
+    "id" : 1,
+    "name" : "Pearlgreen Supply",
+    "phone" : "914-636-0505",
+    "type" : "Maintenance Supply",
+    "type_id" : "maint",
+    "url" : "pearlgreen.com"
+  }, {
+    "contact_person" : "John Nolan",
+    "email" : "johnnolantfloors@gmail.com",
+    "id" : 2,
+    "name" : "Nolan Select Flooring",
+    "phone" : "212-879-2436",
+    "type" : "Flooring",
+    "type_id" : "floor",
+    "url" : "nolanselectfloors.com"
+  }, {
+    "contact_person" : "Cody Levine",
+    "email" : "clevine@majorair.net",
+    "id" : 3,
+    "name" : "Major Air",
+    "phone" : "718-592-5100",
+    "type" : "HVAC",
+    "type_id" : "hvac",
+    "url" : "majorair.net"
+  }, {
+    "contact_person" : "Joe Freud",
+    "email" : "joe@chuteplus.com",
+    "id" : 4,
+    "name" : "Chute Plus",
+    "phone" : "347-671-1083",
+    "type" : "Compactor Chute Repair/ Maintenace",
+    "type_id" : "chute",
+    "url" : "www.chuteplus.com"
+  } ]
+}
