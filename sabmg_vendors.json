@@ -1,43 +1,101 @@
 [
-   {
-    "contact_person" : "Ken Nedel",
-    "email" : "knadel@pearlgreen.com",
+  {
     "id" : 1,
-    "name" : "Pearlgreen Supply",
-    "phone" : "914-636-0505",
-    "type" : "Maintenance Supply",
+    "name" : "Major Air",
+    "contact_person" : "Cody Levine",
+    "email" : "info@majorair.net",
+    "phone" : "718-592-5100",
+    "type" : "HVAC Repair/Maintenance",
+    "type_id" : "hvac",
+    "url" : "majorair.net",
+      "featured" : 1
+  },
+  {
+    "id" : 2,
+    "name" : "SNA Hardware",
+    "contact_person" : "Scott Rofoski",
+    "email" : "srofo@aol.com",
+    "phone" : "",
+    "type" : "Maintenance Supplies",
     "type_id" : "maint",
-    "url" : "pearlgreen.com",
-      "featured" : 0
-   }, {
+    "url" : "",
+      "featured" : 1
+  },
+  {
+    "id" : 3,
+    "name" : "Independant Product Supply",
+    "contact_person" : "Jim Dempsy",
+    "email" : "demps@aol.com",
+    "phone" : "516-456-7103",
+    "type" : "Maintenance Supplies",
+    "type_id" : "maint",
+    "url" : "www.ipsnypro.com/",
+      "featured" : 1
+  },
+  {
+    "id" : 4,
+    "name" : "Padded Waggon",
+    "contact_person" : "",
+    "email" : "",
+    "phone" : "",
+    "type" : "Movers",
+    "type_id" : "movers",
+    "url" : "",
+      "featured" : 1
+  },
+  {
+    "id" : 5,
+    "name" : "Rosenwach",
+    "contact_person" : "Henry Rosenwach",
+    "email" : "hjr@rosenwachgroup.com",
+    "phone" : "718-729-4900",
+    "type" : "Roof Tank Repair/Maintenace",
+    "type_id" : "roof",
+    "url" : "www.rosenwachtank.com",
+      "featured" : 1
+  },
+  {
+    "id" : 6,
+    "name" : "NY Horticultural Group",
+    "contact_person" : "Robert Syska",
+    "email" : "grow@nyhort.com",
+    "phone" : "631-589-1790",
+    "type" : "Landscaping",
+    "type_id" : "landscaping",
+    "url" : "www.nyhort.com",
+      "featured" : 1
+  },
+  {
+    "id" : 7,
+    "name" : "Nolan Select Flooring",
     "contact_person" : "John Nolan",
     "email" : "johnnolantfloors@gmail.com",
-    "id" : 2,
-    "name" : "Nolan Select Flooring",
     "phone" : "212-879-2436",
     "type" : "Flooring",
     "type_id" : "floor",
-    "url" : "nolanselectfloors.com",
-      "featured" : 1
-   }, {
-    "contact_person" : "Cody Levine",
-    "email" : "clevine@majorair.net",
-    "id" : 3,
-    "name" : "Major Air",
-    "phone" : "718-592-5100",
-    "type" : "HVAC",
-    "type_id" : "hvac",
-    "url" : "majorair.net",
+    "url" : "",
       "featured" : 0
-   }, {
+  },
+  {
+    "id" : 8,
+    "name" : "Abbey Locksmith",
+    "contact_person" : "Aaron Geffner",
+    "email" : "aaron@abbeylock.com",
+    "phone" : "212-535-2289",
+    "type" : "Locksmith",
+    "type_id" : "locksmith",
+    "url" : "",
+      "featured" : 0
+  },
+  {
+    "id" : 9,
+    "name" : "Chute Plus",
     "contact_person" : "Joe Freud",
     "email" : "joe@chuteplus.com",
-    "id" : 4,
-    "name" : "Chute Plus",
     "phone" : "347-671-1083",
-    "type" : "Compactor Chute Repair/ Maintenace",
+    "type" : "Compactor Chute Repair/Maintenace",
     "type_id" : "chute",
-    "url" : "www.chuteplus.com",
-      "featured" : 1
-   }
+    "url" : "",
+      "featured" : 0
+  }
 ]
