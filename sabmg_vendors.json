@@ -23,17 +23,6 @@
   },
   {
     "id" : 3,
-    "name" : "Independant Product Supply",
-    "contact_person" : "Jim Dempsy",
-    "email" : "demps@aol.com",
-    "phone" : "516-456-7103",
-    "type" : "Maintenance Supplies",
-    "type_id" : "maint",
-    "url" : "www.ipsnypro.com/",
-      "featured" : 1
-  },
-  {
-    "id" : 4,
     "name" : "Padded Waggon",
     "contact_person" : "",
     "email" : "",
@@ -44,7 +33,7 @@
       "featured" : 1
   },
   {
-    "id" : 5,
+    "id" : 4,
     "name" : "Rosenwach",
     "contact_person" : "Henry Rosenwach",
     "email" : "hjr@rosenwachgroup.com",
@@ -55,7 +44,7 @@
       "featured" : 1
   },
   {
-    "id" : 6,
+    "id" : 5,
     "name" : "NY Horticultural Group",
     "contact_person" : "Robert Syska",
     "email" : "grow@nyhort.com",
@@ -63,6 +52,17 @@
     "type" : "Landscaping",
     "type_id" : "landscaping",
     "url" : "www.nyhort.com",
+      "featured" : 1
+  },
+  {
+    "id" : 6,
+    "name" : "Independant Product Supply",
+    "contact_person" : "Jim Dempsy",
+    "email" : "demps@aol.com",
+    "phone" : "516-456-7103",
+    "type" : "Maintenance Supplies",
+    "type_id" : "maint",
+    "url" : "www.ipsnypro.com/",
       "featured" : 1
   },
   {
