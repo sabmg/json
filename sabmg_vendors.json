@@ -24,12 +24,12 @@
   {
     "id" : 3,
     "name" : "Padded Waggon",
-    "contact_person" : "",
-    "email" : "",
-    "phone" : "",
+    "contact_person" : "Ed Dowling",
+    "email" : "edpaddedwagon@icloud.com",
+    "phone" : "212-222-4880",
     "type" : "Movers",
     "type_id" : "movers",
-    "url" : "",
+    "url" : "paddedwagon.com",
       "featured" : 1
   },
   {
