@@ -100,17 +100,6 @@
 },
 {
 "id": 10,
-"name": "NY Horticultural Group",
-"contact_person": "Robert Syska",
-"email": "grow@nyhort.com",
-"phone": "631-589-1790",
-"type": "Landscaping",
-"type_id": "landscaping",
-"url": "www.nyhort.com",
-"featured": 1
-},
-{
-"id": 11,
 "name": "Champion Elevator Corp.",
 "contact_person": "Donald Gelestino",
 "email": "donald@champion-elevator.com",
@@ -121,7 +110,7 @@
 "featured": 1
 },
 {
-"id": 12,
+"id": 11,
 "name": "Industrial Solutions",
 "contact_person": "Nicholas Vrettos",
 "email": "nicholas@isny.nyc",
@@ -132,7 +121,7 @@
 "featured": 1
 },
 {
-"id": 13,
+"id": 12,
 "name": "Servpro of Lower Manhattan - Financial District",
 "contact_person": "Lisa Mulchy",
 "email": "lmulcahy@servprohobokenuc.com",
