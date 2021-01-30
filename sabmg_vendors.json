@@ -130,8 +130,7 @@
 "type_id": "restoration",
 "url": "",
 "featured": 0
-}
-,
+},
 {
 "id": 13,
 "name": "Pearlgreen Corp.",
@@ -142,5 +141,16 @@
 "type_id": "supplies",
 "url": "www.pearlgreen.com",
 "featured": 1
+},
+{
+"id": 14,
+"name": "Kingsway Surfaces Care",
+"contact_person": "Norma Jean Lopez",
+"email": "normajean@kingsway.com",
+"phone": "646-804-9403",
+"type": "Restoration",
+"type_id": "restoration",
+"url": "",
+"featured": 0
 }  
 ]
