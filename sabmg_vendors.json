@@ -56,7 +56,7 @@
 },
 {
 "id": 6,
-"name": "Independent Product Supply",
+"name": "Independant Product Supply",
 "contact_person": "Jim Dempsy",
 "email": "demps@aol.com",
 "phone": "516-456-7103",
@@ -130,4 +130,5 @@
 "type_id": "restoration",
 "url": "",
 "featured": 0
-}]
+}
+]
