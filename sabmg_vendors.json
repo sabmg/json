@@ -159,7 +159,7 @@
 "contact_person": "Susan Hutter",
 "email": "susan@systems2000plumbing.com",
 "phone": "212-327-2277",
-"type": "Services",
+"type": "Plumbing Services",
 "type_id": "plumbing",
 "url": "www.systems2000plumbing.com",
 "featured": 0
@@ -170,7 +170,7 @@
 "contact_person": "Bryan Berman",
 "email": "cityelectricalservices1@gmail.com",
 "phone": "718-740-4100",
-"type": "Services",
+"type": "Electrical Services",
 "type_id": "electrical",
 "url": "",
 "featured": 0
@@ -192,7 +192,7 @@
 "contact_person": "Christopher Gill",
 "email": "accounting@colonypestnyc.com",
 "phone": "718-856-1400",
-"type": "Services",
+"type": "Pest Control/Exterminator",
 "type_id": "exterminator",
 "url": "www.colonypestnyc.com",
 "featured": 0
