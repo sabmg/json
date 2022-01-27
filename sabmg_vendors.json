@@ -152,7 +152,7 @@
 "type_id": "restoration",
 "url": "",
 "featured": 0
-} 
+},
 {
 "id": 15,
 "name": "System 2000 Plumbing",
@@ -163,7 +163,7 @@
 "type_id": "plumbing",
 "url": "www.systems2000plumbing.com",
 "featured": 0
-}
+},
 {
 "id": 16,
 "name": "City Electrical Services Inc.",
@@ -188,12 +188,12 @@
 },
 {
 "id": 18,
-"name": "Colony Pest Management,Inc",
+"name": "Colony Pest Managment,Inc",
 "contact_person": "Christopher Gill",
 "email": "accounting@colonypestnyc.com",
 "phone": "718-856-1400",
 "type": "Services",
-"type_id": "services",
+"type_id": "exterminator",
 "url": "www.colonypestnyc.com",
 "featured": 0
 },
