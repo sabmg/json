@@ -188,12 +188,12 @@
 },
 {
 "id": 18,
-"name": "Colony Pest Managment,Inc",
+"name": "Colony Pest Management,Inc",
 "contact_person": "Christopher Gill",
 "email": "accounting@colonypestnyc.com",
 "phone": "718-856-1400",
 "type": "Services",
-"type_id": "exterminator",
+"type_id": "services",
 "url": "www.colonypestnyc.com",
 "featured": 0
 },
