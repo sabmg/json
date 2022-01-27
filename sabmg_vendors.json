@@ -5,8 +5,8 @@
 "contact_person": "Cody Levine",
 "email": "info@majorair.net",
 "phone": "718-592-5100",
-"type": "Repair/Maintenance",
-"type_id": "hvac",
+"type": "HVAC Repair Maintenance",
+"type_id": "services",
 "url": "www.majorair.net",
 "featured": 1
 },
@@ -16,7 +16,7 @@
 "contact_person": "Scott Rofoski",
 "email": "srofo@aol.com",
 "phone": "914-584-1410",
-"type": "Supplies",
+"type": "Maintenance Supplies",
 "type_id": "supplies",
 "url": "",
 "featured": 1
@@ -27,7 +27,7 @@
 "contact_person": "Jim Dempsy",
 "email": "demps@aol.com",
 "phone": "516-456-7103",
-"type": "Supplies",
+"type": "Maintenance Supplies",
 "type_id": "supplies",
 "url": "www.ipsnypro.com",
 "featured": 1
@@ -38,7 +38,7 @@
 "contact_person": "Ed Dowling",
 "email": "ed@paddedwagon.com",
 "phone": "212-222-4880",
-"type": "Services",
+"type": "Movers",
 "type_id": "movers",
 "url": "www.paddedwagon.com",
 "featured": 1
@@ -49,7 +49,7 @@
 "contact_person": "Henry Rosenwach",
 "email": "hjr@rosenwachgroup.com",
 "phone": "718-729-4900",
-"type": "Repair/Maintenance",
+"type": "Roof Tank Repair/Maintenace ",
 "type_id": "roof",
 "url": "www.rosenwachtank.com",
 "featured": 1
@@ -60,7 +60,7 @@
 "contact_person": "Robert Syska",
 "email": "grow@nyhort.com",
 "phone": "631-589-1790",
-"type": "Services",
+"type": "Landscaping",
 "type_id": "landscaping",
 "url": "www.nyhort.com",
 "featured": 1
@@ -71,7 +71,7 @@
 "contact_person": "Donald Gelestino",
 "email": "donald@champion-elevator.com",
 "phone": "718-987-6900",
-"type": "Repair/Maintenance",
+"type": "Elevator Repair/Maintenance",
 "type_id": "elevator",
 "url": "www.champion-elevator.com",
 "featured": 1
@@ -82,7 +82,7 @@
 "contact_person": "Nicholas Vrettos",
 "email": "nicholas@isny.nyc",
 "phone": "718-392-4444",
-"type": "Repair/Maintenance",
+"type": "Pump Repair",
 "type_id": "pump",
 "url": "www.isny.nyc",
 "featured": 1
@@ -93,7 +93,7 @@
 "contact_person": "Ken Nadel",
 "email": "knadel@pearlgreen.com",
 "phone": "917-439-3542",
-"type": "Supplies",
+"type": "Maintenance Supplies ",
 "type_id": "supplies",
 "url": "www.pearlgreen.com",
 "featured": 1
@@ -104,7 +104,7 @@
 "contact_person": "Joe Freud",
 "email": "joe@chuteplus.com",
 "phone": "347-671-1083",
-"type": "Repair/Maintenance",
+"type": "Compactor Chute Repair/ Maintenace ",
 "type_id": "chute",
 "url": "www.chuteplus.com",
 "featured": 1
@@ -115,7 +115,7 @@
 "contact_person": "Peter Grande",
 "email": "pgrande@pginsulationny.com",
 "phone": "516-853-1745",
-"type": "Services",
+"type": "Insulation/Pipe covering",
 "type_id": "insulation",
 "url": "www.pginsulationny.com",
 "featured": 1
