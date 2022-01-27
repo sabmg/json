@@ -5,9 +5,9 @@
 "contact_person": "Cody Levine",
 "email": "info@majorair.net",
 "phone": "718-592-5100",
-"type": "HVAC Repair/Maintenance",
+"type": "Repair/Maintenance",
 "type_id": "hvac",
-"url": "majorair.net",
+"url": "www.majorair.net",
 "featured": 1
 },
 {
@@ -15,124 +15,80 @@
 "name": "SNA Hardware",
 "contact_person": "Scott Rofoski",
 "email": "srofo@aol.com",
-"phone": "",
-"type": "Maintenance Supplies",
+"phone": "914-584-1410",
+"type": "Supplies",
 "type_id": "maint",
 "url": "",
 "featured": 1
 },
 {
 "id": 3,
-"name": "Padded Waggon",
-"contact_person": "Ed Dowling",
-"email": "edpaddedwagon@icloud.com",
-"phone": "212-222-4880",
-"type": "Movers",
-"type_id": "movers",
-"url": "paddedwagon.com",
-"featured": 1
-},
-{
-"id": 4,
-"name": "Rosenwach",
-"contact_person": "Henry Rosenwach",
-"email": "hjr@rosenwachgroup.com",
-"phone": "718-729-4900",
-"type": "Roof Tank Repair/Maintenace",
-"type_id": "roof",
-"url": "www.rosenwachtank.com",
-"featured": 1
-},
-{
-"id": 5,
-"name": "NY Horticultural Group",
-"contact_person": "Robert Syska",
-"email": "grow@nyhort.com",
-"phone": "631-589-1790",
-"type": "Landscaping",
-"type_id": "landscaping",
-"url": "www.nyhort.com",
-"featured": 1
-},
-{
-"id": 6,
 "name": "Independant Product Supply",
 "contact_person": "Jim Dempsy",
 "email": "demps@aol.com",
 "phone": "516-456-7103",
-"type": "Maintenance Supplies",
+"type": "Repair/Maintenance",
 "type_id": "maint",
 "url": "www.ipsnypro.com",
 "featured": 1
 },
 {
-"id": 7,
-"name": "Nolan Select Flooring",
-"contact_person": "John Nolan",
-"email": "johnnolantfloors@gmail.com",
-"phone": "212-879-2436",
-"type": "Flooring",
-"type_id": "floor",
-"url": "",
-"featured": 0
-},
-{
-"id": 8,
-"name": "Abbey Locksmith",
-"contact_person": "Aaron Geffner",
-"email": "aaron@abbeylock.com",
-"phone": "212-535-2289",
-"type": "Locksmith",
-"type_id": "locksmith",
-"url": "",
-"featured": 0
-},
-{
-"id": 9,
-"name": "Chute Plus",
-"contact_person": "Joe Freud",
-"email": "joe@chuteplus.com",
-"phone": "347-671-1083",
-"type": "Compactor Chute Repair/Maintenace",
-"type_id": "chute",
-"url": "www.chuteplus.com",
+"id": 4,
+"name": "Padded Waggon",
+"contact_person": "Ed Dowling",
+"email": "ed@paddedwagon.com",
+"phone": "212-222-4880",
+"type": "Services",
+"type_id": "movers",
+"url": "www.paddedwagon.com",
 "featured": 1
 },
 {
-"id": 10,
+"id": 5,
+"name": "Rosenwach",
+"contact_person": "Henry Rosenwach",
+"email": "hjr@rosenwachgroup.com",
+"phone": "718-729-4900",
+"type": "Repair/Maintenance",
+"type_id": "roof",
+"url": "www.rosenwachtank.com",
+"featured": 1
+},
+{
+"id": 6,
+"name": "NY Horticultural Group",
+"contact_person": "Robert Syska",
+"email": "grow@nyhort.com",
+"phone": "631-589-1790",
+"type": "Services",
+"type_id": "landscaping",
+"url": "www.nyhort.com",
+"featured": 1
+},
+{
+"id": 7,
 "name": "Champion Elevator Corp.",
 "contact_person": "Donald Gelestino",
 "email": "donald@champion-elevator.com",
 "phone": "718-987-6900",
-"type": "Elevator Repair/Maintenance",
+"type": "Repair/Maintenance",
 "type_id": "elevator",
 "url": "www.champion-elevator.com",
 "featured": 1
 },
 {
-"id": 11,
+"id": 8,
 "name": "Industrial Solutions",
 "contact_person": "Nicholas Vrettos",
 "email": "nicholas@isny.nyc",
 "phone": "718-392-4444",
-"type": "Pump Repair/Maintenance",
+"type": "Repair/Maintenance",
 "type_id": "pump",
-"url": "isny.nyc",
+"url": "www.isny.nyc",
 "featured": 1
 },
 {
-"id": 12,
-"name": "Servpro of Lower Manhattan - Financial District",
-"contact_person": "Lisa Mulchy",
-"email": "lmulcahy@servprohobokenuc.com",
-"phone": "551-226-1997",
-"type": "Restoration",
-"type_id": "restoration",
-"url": "",
-"featured": 0
-},
-{
-"id": 13,
+"id": 9,
 "name": "Pearlgreen Corp.",
 "contact_person": "Ken Nadel",
 "email": "knadel@pearlgreen.com",
@@ -141,6 +97,50 @@
 "type_id": "supplies",
 "url": "www.pearlgreen.com",
 "featured": 1
+},
+{
+"id": 10,
+"name": "Chute Plus",
+"contact_person": "Joe Freud",
+"email": "joe@chuteplus.com",
+"phone": "347-671-1083",
+"type": "Repair/Maintenance",
+"type_id": "chute",
+"url": "www.chuteplus.com",
+"featured": 1
+},
+{
+"id": 11,
+"name": "PG Insulation INC.",
+"contact_person": "Peter Grande",
+"email": "pgrande@pginsulationny.com",
+"phone": "516-853-1745",
+"type": "Services",
+"type_id": "insulation",
+"url": "www.pginsulationny.com",
+"featured": 1
+},
+{
+"id": 12,
+"name": "Abbey Locksmith",
+"contact_person": "Aaron Geffner",
+"email": "aaron@abbeylock.com",
+"phone": "212-535-2289",
+"type": "Security",
+"type_id": "locksmith",
+"url": "",
+"featured": 0
+},
+{
+"id": 13,
+"name": "Servpro of Lower Manhattan - Financial District",
+"contact_person": "Lisa Mulchy",
+"email": "lmulcahy@servprohobokenuc.com",
+"phone": "551-226-1997",
+"type": "Restoration",
+"type_id": "restoration",
+"url": "",
+"featured": 0
 },
 {
 "id": 14,
@@ -152,5 +152,49 @@
 "type_id": "restoration",
 "url": "",
 "featured": 0
-}  
+} 
+{
+"id": 15,
+"name": "System 2000 Plumbing",
+"contact_person": "Susan Hutter",
+"email": "susan@systems2000plumbing.com",
+"phone": "212-327-2277",
+"type": "Services",
+"type_id": "plumbing",
+"url": "www.systems2000plumbing.com",
+"featured": 0
+}
+{
+"id": 16,
+"name": "City Electrical Services Inc.",
+"contact_person": "Bryan Berman",
+"email": "cityelectricalservices1@gmail.com",
+"phone": "718-740-4100",
+"type": "Services",
+"type_id": "electrical",
+"url": "",
+"featured": 0
+},
+{
+"id": 17,
+"name": "Pro Pump Corp",
+"contact_person": "David Orgel",
+"email": "do@propumpnyc.com",
+"phone": "917-880-8862",
+"type": "Repair/Maintenance",
+"type_id": "pump",
+"url": "www.propumpnyc.com",
+"featured": 0
+},
+{
+"id": 18,
+"name": "Colony Pest Managment,Inc",
+"contact_person": "Christopher Gill",
+"email": "accounting@colonypestnyc.com",
+"phone": "718-856-1400",
+"type": "Services",
+"type_id": "exterminator",
+"url": "www.colonypestnyc.com",
+"featured": 0
+},
 ]
