@@ -17,7 +17,7 @@
 "email": "srofo@aol.com",
 "phone": "914-584-1410",
 "type": "Supplies",
-"type_id": "maint",
+"type_id": "supplies",
 "url": "",
 "featured": 1
 },
@@ -27,8 +27,8 @@
 "contact_person": "Jim Dempsy",
 "email": "demps@aol.com",
 "phone": "516-456-7103",
-"type": "Repair/Maintenance",
-"type_id": "maint",
+"type": "Supplies",
+"type_id": "supplies",
 "url": "www.ipsnypro.com",
 "featured": 1
 },
