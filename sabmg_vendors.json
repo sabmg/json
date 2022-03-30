@@ -133,6 +133,17 @@
 },
 {
 "id": 13,
+"name": "GrayFox Flooring",
+"contact_person": "Ryan Lestrange",
+"email": "rlestrange@grayfoxflooring.com",
+"phone": "212-268-9140",
+"type": "Flooring",
+"type_id": "services",
+"url": "grayfoxflooring.com",
+"featured": 0
+},
+{
+"id": 14,
 "name": "Abbey Locksmith",
 "contact_person": "Aaron Geffner",
 "email": "aaron@abbeylock.com",
