@@ -144,6 +144,17 @@
 },
 {
 "id": 14,
+"name": "City Electrical Services Inc.",
+"contact_person": "Bryan Berman",
+"email": "cityelectricalservices1@gmail.com",
+"phone": "718-740-4100",
+"type": "Electrical",
+"type_id": "services",
+"url": "",
+"featured": 0
+},
+{
+"id": 15,
 "name": "Abbey Locksmith",
 "contact_person": "Aaron Geffner",
 "email": "aaron@abbeylock.com",
