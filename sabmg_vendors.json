@@ -49,7 +49,7 @@
 "contact_person": "Henry Rosenwach",
 "email": "hjr@rosenwachgroup.com",
 "phone": "718-729-4900",
-"type": "Roof Tank Repair/Maintenace ",
+"type": "Roof Tank Repair/Maintenace",
 "type_id": "roof",
 "url": "www.rosenwachtank.com",
 "featured": 1
@@ -93,7 +93,7 @@
 "contact_person": "Ken Nadel",
 "email": "knadel@pearlgreen.com",
 "phone": "917-439-3542",
-"type": "Maintenance Supplies ",
+"type": "Maintenance Supplies",
 "type_id": "supplies",
 "url": "www.pearlgreen.com",
 "featured": 1
@@ -104,14 +104,14 @@
 "contact_person": "Joe Freud",
 "email": "joe@chuteplus.com",
 "phone": "347-671-1083",
-"type": "Compactor Chute Repair/ Maintenace ",
+"type": "Compactor Chute Repair/ Maintenace",
 "type_id": "chute",
 "url": "www.chuteplus.com",
 "featured": 1
 },
 {
 "id": 11,
-"name": "Servpro of Lower Manhattan-Financial District",
+"name": "Servpro of Lower Manhattan - Financial District",
 "contact_person": "Lisa Mulchy",
 "email": "lmulcahy@servprohobokenuc.com",
 "phone": "551-226-1997",
@@ -144,13 +144,24 @@
 },
 {
 "id": 14,
+"name": "City Electrical Services Inc.",
+"contact_person": "Bryan Berman",
+"email": "cityelectricalservices1@gmail.com",
+"phone": "718-740-4100",
+"type": "Electrical Services",
+"type_id": "electrical",
+"url": "",
+"featured": 0
+},
+{
+"id": 15,
 "name": "GrayFox Flooring",
 "contact_person": "Ryan Lestrange",
 "email": "rlestrange@grayfoxflooring.com",
 "phone": "212-268-9140",
 "type": "Flooring",
 "type_id": "services",
-"url": "grayfoxflooring.com",
+"url": "www.grayfoxflooring.com",
 "featured": 0
 }
 ]
