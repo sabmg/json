@@ -111,14 +111,14 @@
 },
 {
 "id": 11,
-"name": "PG Insulation INC.",
-"contact_person": "Peter Grande",
-"email": "pgrande@pginsulationny.com",
-"phone": "516-853-1745",
-"type": "Insulation/Pipe covering",
-"type_id": "insulation",
-"url": "www.pginsulationny.com",
-"featured": 1
+"name": "Servpro of Lower Manhattan-Financial District",
+"contact_person": "Lisa Mulchy",
+"email": "lmulcahy@servprohobokenuc.com",
+"phone": "551-226-1997",
+"type": "Restoration",
+"type_id": "restoration",
+"url": "",
+"featured": 0
 },
 {
 "id": 12,
@@ -133,17 +133,6 @@
 },
 {
 "id": 13,
-"name": "Servpro of Lower Manhattan - Financial District",
-"contact_person": "Lisa Mulchy",
-"email": "lmulcahy@servprohobokenuc.com",
-"phone": "551-226-1997",
-"type": "Restoration",
-"type_id": "restoration",
-"url": "",
-"featured": 0
-},
-{
-"id": 14,
 "name": "Kingsway Surfaces Care",
 "contact_person": "Norma Jean Lopez",
 "email": "normajean@kingsway.com",
@@ -154,47 +143,14 @@
 "featured": 0
 },
 {
-"id": 15,
-"name": "System 2000 Plumbing",
-"contact_person": "Susan Hutter",
-"email": "susan@systems2000plumbing.com",
-"phone": "212-327-2277",
-"type": "Plumbing Services",
-"type_id": "plumbing",
-"url": "www.systems2000plumbing.com",
-"featured": 0
-},
-{
-"id": 16,
-"name": "City Electrical Services Inc.",
-"contact_person": "Bryan Berman",
-"email": "cityelectricalservices1@gmail.com",
-"phone": "718-740-4100",
-"type": "Electrical Services",
-"type_id": "electrical",
-"url": "",
-"featured": 0
-},
-{
-"id": 17,
-"name": "Pro Pump Corp",
-"contact_person": "David Orgel",
-"email": "do@propumpnyc.com",
-"phone": "917-880-8862",
-"type": "Repair/Maintenance",
-"type_id": "pump",
-"url": "www.propumpnyc.com",
-"featured": 0
-},
-{
-"id": 18,
-"name": "Colony Pest Managment,Inc",
-"contact_person": "Christopher Gill",
-"email": "accounting@colonypestnyc.com",
-"phone": "718-856-1400",
-"type": "Pest Control/Exterminator",
-"type_id": "exterminator",
-"url": "www.colonypestnyc.com",
+"id": 14,
+"name": "GrayFox Flooring",
+"contact_person": "Ryan Lestrange",
+"email": "rlestrange@grayfoxflooring.com",
+"phone": "212-268-9140",
+"type": "Flooring",
+"type_id": "services",
+"url": "grayfoxflooring.com",
 "featured": 0
 }
 ]
