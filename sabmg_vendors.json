@@ -164,4 +164,15 @@
 "url": "www.grayfoxflooring.com",
 "featured": 0
 }
+{
+"id": 16,
+"name": "Simon Industries",
+"contact_person": "Eric Simon",
+"email": "info@simonindustries.com",
+"phone": "718-707-0044",
+"type": "Maintencence Supplies",
+"type_id": "supplies",
+"url": "www.simonindustries.com",
+"featured": 0
+}
 ]
