@@ -174,5 +174,38 @@
 "type_id": "supplies",
 "url": "www.simonindustries.com",
 "featured": 0
+},
+{
+"id": 17,
+"name": "Chemsearch FE",
+"contact_person": "Michael Gallose",
+"email": "michael.gallose@chemsearchfe.com",
+"phone": "516-318-0037",
+"type": "Maintencence Supplies",
+"type_id": "supplies",
+"url": "www.safetyandmaintenance.supplies",
+"featured": 1
+},
+{
+"id": 18,
+"name": "Horizon Window Treatment",
+"contact_person": "Tom Vatury",
+"email": "tom@horizonnyc.com",
+"phone": "917-698-4877",
+"type": "Windows Services",
+"type_id": "services",
+"url": "",
+"featured": 0
+},
+{
+"id": 19,
+"name": "Niche Waterproofing",
+"contact_person": "Joshua Neuman",
+"email": "joshua@nichewaterproofing.com",
+"phone": "212-729-9985",
+"type": "Restoration",
+"type_id": "services",
+"url": "www.nichewaterproofing.com",
+"featured": 0
 }
 ]
