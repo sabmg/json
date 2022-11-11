@@ -155,17 +155,6 @@
 },
 {
 "id": 15,
-"name": "GrayFox Flooring",
-"contact_person": "Ryan Lestrange",
-"email": "rlestrange@grayfoxflooring.com",
-"phone": "212-268-9140",
-"type": "Flooring",
-"type_id": "flooring",
-"url": "www.grayfoxflooring.com",
-"featured": 0
-},
-{
-"id": 16,
 "name": "Simon Industries",
 "contact_person": "Eric Simon",
 "email": "info@simonindustries.com",
@@ -176,7 +165,7 @@
 "featured": 0
 },
 {
-"id": 17,
+"id": 16,
 "name": "Chemsearch FE",
 "contact_person": "Michael Gallose",
 "email": "michael.gallose@chemsearchfe.com",
@@ -187,7 +176,7 @@
 "featured": 1
 },
 {
-"id": 18,
+"id": 17,
 "name": "Horizon Window Treatment",
 "contact_person": "Tom Vatury",
 "email": "tom@horizonnyc.com",
@@ -198,7 +187,7 @@
 "featured": 0
 },
 {
-"id": 19,
+"id": 18,
 "name": "Niche Waterproofing",
 "contact_person": "Joshua Neuman",
 "email": "joshua@nichewaterproofing.com",
@@ -207,5 +196,16 @@
 "type_id": "services",
 "url": "www.nichewaterproofing.com",
 "featured": 0
-}
+},
+{
+"id": 19,
+"name": "System 2000 Plumbing",
+"contact_person": "Susan Hutter",
+"email": "susan@systems2000plumbing.com",
+"phone": "917-515-2091",
+"type": "Plumbing",
+"type_id": "services",
+"url": "",
+"featured": 0
+}  
 ]
