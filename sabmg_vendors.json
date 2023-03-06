@@ -89,39 +89,17 @@
 },
 {
 "id": 9,
-"name": "Pearlgreen Corp.",
-"contact_person": "Ken Nadel",
-"email": "knadel@pearlgreen.com",
-"phone": "917-439-3542",
-"type": "Maintenance Supplies",
-"type_id": "supplies",
-"url": "www.pearlgreen.com",
+"name": "PG Insulation INC.",
+"contact_person": "Peter Grande",
+"email": "pgrande@pginsulationny.com",
+"phone": "516-853-1745",
+"type": "Insulation/Pipe covering",
+"type_id": "services",
+"url": "www.pginsulationny.com",
 "featured": 1
 },
 {
 "id": 10,
-"name": "Chute Plus",
-"contact_person": "Joe Freud",
-"email": "joe@chuteplus.com",
-"phone": "347-671-1083",
-"type": "Compactor Chute Repair/ Maintenace",
-"type_id": "chute",
-"url": "www.chuteplus.com",
-"featured": 1
-},
-{
-"id": 11,
-"name": "Servpro of Lower Manhattan - Financial District",
-"contact_person": "Lisa Mulchy",
-"email": "lmulcahy@servprohobokenuc.com",
-"phone": "551-226-1997",
-"type": "Restoration",
-"type_id": "restoration",
-"url": "",
-"featured": 0
-},
-{
-"id": 12,
 "name": "Abbey Locksmith",
 "contact_person": "Aaron Geffner",
 "email": "aaron@abbeylock.com",
@@ -132,18 +110,7 @@
 "featured": 0
 },
 {
-"id": 13,
-"name": "Kingsway Surfaces Care",
-"contact_person": "Norma Jean Lopez",
-"email": "normajean@kingsway.com",
-"phone": "646-804-9403",
-"type": "Restoration",
-"type_id": "restoration",
-"url": "",
-"featured": 0
-},
-{
-"id": 14,
+"id": 11,
 "name": "City Electrical Services Inc.",
 "contact_person": "Bryan Berman",
 "email": "cityelectricalservices1@gmail.com",
@@ -154,7 +121,7 @@
 "featured": 0
 },
 {
-"id": 15,
+"id": 12,
 "name": "Simon Industries",
 "contact_person": "Eric Simon",
 "email": "info@simonindustries.com",
@@ -165,7 +132,7 @@
 "featured": 0
 },
 {
-"id": 16,
+"id": 13,
 "name": "Chemsearch FE",
 "contact_person": "Michael Gallose",
 "email": "michael.gallose@chemsearchfe.com",
@@ -176,7 +143,7 @@
 "featured": 1
 },
 {
-"id": 17,
+"id": 14,
 "name": "Horizon Window Treatment",
 "contact_person": "Tom Vatury",
 "email": "tom@horizonnyc.com",
@@ -187,7 +154,7 @@
 "featured": 0
 },
 {
-"id": 18,
+"id": 15,
 "name": "Niche Waterproofing",
 "contact_person": "Joshua Neuman",
 "email": "joshua@nichewaterproofing.com",
@@ -198,7 +165,7 @@
 "featured": 0
 },
 {
-"id": 19,
+"id": 16,
 "name": "System 2000 Plumbing",
 "contact_person": "Susan Hutter",
 "email": "susan@systems2000plumbing.com",
